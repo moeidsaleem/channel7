@@ -1,0 +1,1428 @@
+Uri: http://buzzworthystudio.com/
+File Name: C:\Users\Kamra\Desktop\temp\buzzworthystudio.com\index.html
+Content Type: text/html
+
+Uri: http://buzzworthystudio.com/favicon.ico
+File Name: C:\Users\Kamra\Desktop\temp\buzzworthystudio.com\favicon.ico
+Content Type: image/vnd.microsoft.icon
+
+Uri: http://buzzworthystudio.com/css/styles.css
+File Name: C:\Users\Kamra\Desktop\temp\buzzworthystudio.com\css\styles.css
+Content Type: text/css
+
+Uri: http://buzzworthystudio.com/hireus
+File Name: C:\Users\Kamra\Desktop\temp\buzzworthystudio.com\hireus.html
+Content Type: text/html
+
+Uri: http://buzzworthystudio.com/studio
+File Name: C:\Users\Kamra\Desktop\temp\buzzworthystudio.com\studio.html
+Content Type: text/html
+
+Uri: http://buzzworthystudio.com/team
+File Name: C:\Users\Kamra\Desktop\temp\buzzworthystudio.com\team.html
+Content Type: text/html
+
+Uri: http://buzzworthystudio.com/contact
+File Name: C:\Users\Kamra\Desktop\temp\buzzworthystudio.com\contact.html
+Content Type: text/html
+
+Uri: http://buzzworthystudio.com/funhouse
+File Name: C:\Users\Kamra\Desktop\temp\buzzworthystudio.com\funhouse.html
+Content Type: text/html
+
+Uri: http://buzzworthystudio.com/project-betches
+File Name: C:\Users\Kamra\Desktop\temp\buzzworthystudio.com\project-betches.html
+Content Type: text/html
+
+Uri: http://buzzworthystudio.com/project-allpro
+File Name: C:\Users\Kamra\Desktop\temp\buzzworthystudio.com\project-allpro.html
+Content Type: text/html
+
+Uri: http://buzzworthystudio.com/project-cornerstone
+File Name: C:\Users\Kamra\Desktop\temp\buzzworthystudio.com\project-cornerstone.html
+Content Type: text/html
+
+Uri: http://buzzworthystudio.com/project-taylor
+File Name: C:\Users\Kamra\Desktop\temp\buzzworthystudio.com\project-taylor.html
+Content Type: text/html
+
+Uri: http://buzzworthystudio.com/project-modernmd
+File Name: C:\Users\Kamra\Desktop\temp\buzzworthystudio.com\project-modernmd.html
+Content Type: text/html
+
+Uri: http://buzzworthystudio.com/project-storyverse
+File Name: C:\Users\Kamra\Desktop\temp\buzzworthystudio.com\project-storyverse.html
+Content Type: text/html
+
+Uri: http://buzzworthystudio.com/project-gts
+File Name: C:\Users\Kamra\Desktop\temp\buzzworthystudio.com\project-gts.html
+Content Type: text/html
+
+Uri: http://buzzworthystudio.com/project-hennessey
+File Name: C:\Users\Kamra\Desktop\temp\buzzworthystudio.com\project-hennessey.html
+Content Type: text/html
+
+Uri: http://buzzworthystudio.com/js/js-dist.js
+File Name: C:\Users\Kamra\Desktop\temp\buzzworthystudio.com\js\js-dist.js
+Content Type: text/javascript
+
+Uri: http://buzzworthystudio.com/img/buzzworthy-logo.svg
+File Name: C:\Users\Kamra\Desktop\temp\buzzworthystudio.com\img\buzzworthy-logo.svg
+Content Type: image/svg+xml
+
+Uri: http://buzzworthystudio.com/img/logo-framing.png
+File Name: C:\Users\Kamra\Desktop\temp\buzzworthystudio.com\img\logo-framing.png
+Content Type: image/png
+
+Uri: http://buzzworthystudio.com/img/icon-hireus.png
+File Name: C:\Users\Kamra\Desktop\temp\buzzworthystudio.com\img\icon-hireus.png
+Content Type: image/png
+
+Uri: http://buzzworthystudio.com/img/_portfolio/p-betches.jpg
+File Name: C:\Users\Kamra\Desktop\temp\buzzworthystudio.com\img\_portfolio\p-betches.jpeg
+Content Type: image/jpeg
+
+Uri: http://buzzworthystudio.com/img/_portfolio/p-allpro.jpg
+File Name: C:\Users\Kamra\Desktop\temp\buzzworthystudio.com\img\_portfolio\p-allpro.jpeg
+Content Type: image/jpeg
+
+Uri: http://buzzworthystudio.com/img/_portfolio/p-cornerstone.jpg
+File Name: C:\Users\Kamra\Desktop\temp\buzzworthystudio.com\img\_portfolio\p-cornerstone.jpeg
+Content Type: image/jpeg
+
+Uri: http://buzzworthystudio.com/img/_portfolio/p-taylor.jpg
+File Name: C:\Users\Kamra\Desktop\temp\buzzworthystudio.com\img\_portfolio\p-taylor.jpeg
+Content Type: image/jpeg
+
+Uri: http://buzzworthystudio.com/img/_portfolio/p-modernmd.jpg
+File Name: C:\Users\Kamra\Desktop\temp\buzzworthystudio.com\img\_portfolio\p-modernmd.jpeg
+Content Type: image/jpeg
+
+Uri: http://buzzworthystudio.com/img/_portfolio/p-storyverse.jpg
+File Name: C:\Users\Kamra\Desktop\temp\buzzworthystudio.com\img\_portfolio\p-storyverse.jpeg
+Content Type: image/jpeg
+
+Uri: http://buzzworthystudio.com/img/_portfolio/p-gts.jpg
+File Name: C:\Users\Kamra\Desktop\temp\buzzworthystudio.com\img\_portfolio\p-gts.jpeg
+Content Type: image/jpeg
+
+Uri: http://buzzworthystudio.com/img/_portfolio/p-hennessey.jpg
+File Name: C:\Users\Kamra\Desktop\temp\buzzworthystudio.com\img\_portfolio\p-hennessey.jpeg
+Content Type: image/jpeg
+
+Uri: http://buzzworthystudio.com/img/icon-hireus.gif
+File Name: C:\Users\Kamra\Desktop\temp\buzzworthystudio.com\img\icon-hireus.gif
+Content Type: image/gif
+
+Uri: http://buzzworthystudio.com/js/main.js
+File Name: C:\Users\Kamra\Desktop\temp\buzzworthystudio.com\js\main.js
+Content Type: text/javascript
+
+Uri: http://buzzworthystudio.com/img/img-arrow.svg
+File Name: C:\Users\Kamra\Desktop\temp\buzzworthystudio.com\img\img-arrow.svg
+Content Type: image/svg+xml
+
+Uri: http://buzzworthystudio.com/img/video-play-icon.svg
+File Name: C:\Users\Kamra\Desktop\temp\buzzworthystudio.com\img\video-play-icon.svg
+Content Type: image/svg+xml
+
+Uri: http://buzzworthystudio.com/img/video-close-icon.svg
+File Name: C:\Users\Kamra\Desktop\temp\buzzworthystudio.com\img\video-close-icon.svg
+Content Type: image/svg+xml
+
+Uri: http://buzzworthystudio.com/img/projects/storyverse/img-arrow.svg
+File Name: C:\Users\Kamra\Desktop\temp\buzzworthystudio.com\img\projects\storyverse\img-arrow.svg
+Content Type: image/svg+xml
+
+Uri: http://buzzworthystudio.com/img/projects/storyverse/ux-skew.svg
+File Name: C:\Users\Kamra\Desktop\temp\buzzworthystudio.com\img\projects\storyverse\ux-skew.svg
+Content Type: image/svg+xml
+
+Uri: http://buzzworthystudio.com/img/projects/storyverse/ux-slide-1.png
+File Name: C:\Users\Kamra\Desktop\temp\buzzworthystudio.com\img\projects\storyverse\ux-slide-1.png
+Content Type: image/png
+
+Uri: http://buzzworthystudio.com/img/projects/storyverse/ux-slide-2.png
+File Name: C:\Users\Kamra\Desktop\temp\buzzworthystudio.com\img\projects\storyverse\ux-slide-2.png
+Content Type: image/png
+
+Uri: http://buzzworthystudio.com/img/projects/storyverse/ux-slide-3.png
+File Name: C:\Users\Kamra\Desktop\temp\buzzworthystudio.com\img\projects\storyverse\ux-slide-3.png
+Content Type: image/png
+
+Uri: http://buzzworthystudio.com/img/projects/storyverse/ux-slide-4.png
+File Name: C:\Users\Kamra\Desktop\temp\buzzworthystudio.com\img\projects\storyverse\ux-slide-4.png
+Content Type: image/png
+
+Uri: http://buzzworthystudio.com/img/projects/modernmd/img-arrow.svg
+File Name: C:\Users\Kamra\Desktop\temp\buzzworthystudio.com\img\projects\modernmd\img-arrow.svg
+Content Type: image/svg+xml
+
+Uri: http://buzzworthystudio.com/img/projects/taylor/img-arrow.svg
+File Name: C:\Users\Kamra\Desktop\temp\buzzworthystudio.com\img\projects\taylor\img-arrow.svg
+Content Type: image/svg+xml
+
+Uri: http://buzzworthystudio.com/img/projects/cornerstone/img-arrow.svg
+File Name: C:\Users\Kamra\Desktop\temp\buzzworthystudio.com\img\projects\cornerstone\img-arrow.svg
+Content Type: image/svg+xml
+
+Uri: http://buzzworthystudio.com/img/projects/cornerstone/pattern.png
+File Name: C:\Users\Kamra\Desktop\temp\buzzworthystudio.com\img\projects\cornerstone\pattern.png
+Content Type: image/png
+
+Uri: http://buzzworthystudio.com/img/projects/allpro/img-arrow.svg
+File Name: C:\Users\Kamra\Desktop\temp\buzzworthystudio.com\img\projects\allpro\img-arrow.svg
+Content Type: image/svg+xml
+
+Uri: http://buzzworthystudio.com/img/projects/allpro/video-play-icon.svg
+File Name: C:\Users\Kamra\Desktop\temp\buzzworthystudio.com\img\projects\allpro\video-play-icon.svg
+Content Type: image/svg+xml
+
+Uri: http://buzzworthystudio.com/img/projects/allpro/striped-circle.svg
+File Name: C:\Users\Kamra\Desktop\temp\buzzworthystudio.com\img\projects\allpro\striped-circle.svg
+Content Type: image/svg+xml
+
+Uri: http://buzzworthystudio.com/img/projects/gts/img-arrow.svg
+File Name: C:\Users\Kamra\Desktop\temp\buzzworthystudio.com\img\projects\gts\img-arrow.svg
+Content Type: image/svg+xml
+
+Uri: http://buzzworthystudio.com/img/projects/gts/hero-img.jpg
+File Name: C:\Users\Kamra\Desktop\temp\buzzworthystudio.com\img\projects\gts\hero-img.jpeg
+Content Type: image/jpeg
+
+Uri: http://buzzworthystudio.com/img/projects/hennessey/main-bg.png
+File Name: C:\Users\Kamra\Desktop\temp\buzzworthystudio.com\img\projects\hennessey\main-bg.png
+Content Type: image/png
+
+Uri: http://buzzworthystudio.com/img/projects/hennessey/img-arrow.svg
+File Name: C:\Users\Kamra\Desktop\temp\buzzworthystudio.com\img\projects\hennessey\img-arrow.svg
+Content Type: image/svg+xml
+
+Uri: http://buzzworthystudio.com/img/form/bg-bottom.png
+File Name: C:\Users\Kamra\Desktop\temp\buzzworthystudio.com\img\form\bg-bottom.png
+Content Type: image/png
+
+Uri: http://buzzworthystudio.com/img/form/icon-selected.png
+File Name: C:\Users\Kamra\Desktop\temp\buzzworthystudio.com\img\form\icon-selected.png
+Content Type: image/png
+
+Uri: http://buzzworthystudio.com/img/form/ui-slider-left.svg
+File Name: C:\Users\Kamra\Desktop\temp\buzzworthystudio.com\img\form\ui-slider-left.svg
+Content Type: image/svg+xml
+
+Uri: http://buzzworthystudio.com/img/form/ui-slider-right.svg
+File Name: C:\Users\Kamra\Desktop\temp\buzzworthystudio.com\img\form\ui-slider-right.svg
+Content Type: image/svg+xml
+
+Uri: http://buzzworthystudio.com/img/studio/awards.png
+File Name: C:\Users\Kamra\Desktop\temp\buzzworthystudio.com\img\studio\awards.png
+Content Type: image/png
+
+Uri: http://buzzworthystudio.com/img/img-bridge.png
+File Name: C:\Users\Kamra\Desktop\temp\buzzworthystudio.com\img\img-bridge.png
+Content Type: image/png
+
+Uri: http://buzzworthystudio.com/img/wip-hero-bg.png
+File Name: C:\Users\Kamra\Desktop\temp\buzzworthystudio.com\img\wip-hero-bg.png
+Content Type: image/png
+
+Uri: http://buzzworthystudio.com/img/_svg/social-facebook.svg
+File Name: C:\Users\Kamra\Desktop\temp\buzzworthystudio.com\img\_svg\social-facebook.svg
+Content Type: image/svg+xml
+
+Uri: http://buzzworthystudio.com/img/_svg/social-buzzworthy.svg
+File Name: C:\Users\Kamra\Desktop\temp\buzzworthystudio.com\img\_svg\social-buzzworthy.svg
+Content Type: image/svg+xml
+
+Uri: http://buzzworthystudio.com/img/_svg/social-instagram.svg
+File Name: C:\Users\Kamra\Desktop\temp\buzzworthystudio.com\img\_svg\social-instagram.svg
+Content Type: image/svg+xml
+
+Uri: http://buzzworthystudio.com/img/_svg/social-twitter.svg
+File Name: C:\Users\Kamra\Desktop\temp\buzzworthystudio.com\img\_svg\social-twitter.svg
+Content Type: image/svg+xml
+
+Uri: http://buzzworthystudio.com/img/_svg/social-dribbble.svg
+File Name: C:\Users\Kamra\Desktop\temp\buzzworthystudio.com\img\_svg\social-dribbble.svg
+Content Type: image/svg+xml
+
+Uri: http://buzzworthystudio.com/img/_svg/social-behance.svg
+File Name: C:\Users\Kamra\Desktop\temp\buzzworthystudio.com\img\_svg\social-behance.svg
+Content Type: image/svg+xml
+
+Uri: http://buzzworthystudio.com/img/_svg/social-linkedin.svg
+File Name: C:\Users\Kamra\Desktop\temp\buzzworthystudio.com\img\_svg\social-linkedin.svg
+Content Type: image/svg+xml
+
+Uri: http://buzzworthystudio.com/img/form-close.svg
+File Name: C:\Users\Kamra\Desktop\temp\buzzworthystudio.com\img\form-close.svg
+Content Type: image/svg+xml
+
+Uri: http://buzzworthystudio.com/img/form/icon-website.svg
+File Name: C:\Users\Kamra\Desktop\temp\buzzworthystudio.com\img\form\icon-website.svg
+Content Type: image/svg+xml
+
+Uri: http://buzzworthystudio.com/img/form/icon-ecommerce.svg
+File Name: C:\Users\Kamra\Desktop\temp\buzzworthystudio.com\img\form\icon-ecommerce.svg
+Content Type: image/svg+xml
+
+Uri: http://buzzworthystudio.com/img/form/icon-brand.svg
+File Name: C:\Users\Kamra\Desktop\temp\buzzworthystudio.com\img\form\icon-brand.svg
+Content Type: image/svg+xml
+
+Uri: http://buzzworthystudio.com/img/form/icon-chat.svg
+File Name: C:\Users\Kamra\Desktop\temp\buzzworthystudio.com\img\form\icon-chat.svg
+Content Type: image/svg+xml
+
+Uri: http://buzzworthystudio.com/img/form/icon-web-design.svg
+File Name: C:\Users\Kamra\Desktop\temp\buzzworthystudio.com\img\form\icon-web-design.svg
+Content Type: image/svg+xml
+
+Uri: http://buzzworthystudio.com/img/form/icon-web-code.svg
+File Name: C:\Users\Kamra\Desktop\temp\buzzworthystudio.com\img\form\icon-web-code.svg
+Content Type: image/svg+xml
+
+Uri: http://buzzworthystudio.com/img/form/icon-web-both.svg
+File Name: C:\Users\Kamra\Desktop\temp\buzzworthystudio.com\img\form\icon-web-both.svg
+Content Type: image/svg+xml
+
+Uri: http://buzzworthystudio.com/img/studio/dave-desk-1.jpg
+File Name: C:\Users\Kamra\Desktop\temp\buzzworthystudio.com\img\studio\dave-desk-1.jpeg
+Content Type: image/jpeg
+
+Uri: http://buzzworthystudio.com/img/studio/whiteboard-session-1x1.jpg
+File Name: C:\Users\Kamra\Desktop\temp\buzzworthystudio.com\img\studio\whiteboard-session-1x1.jpeg
+Content Type: image/jpeg
+
+Uri: http://buzzworthystudio.com/img/studio/outside-1.jpg
+File Name: C:\Users\Kamra\Desktop\temp\buzzworthystudio.com\img\studio\outside-1.jpeg
+Content Type: image/jpeg
+
+Uri: http://buzzworthystudio.com/img/approach/icon-talk.png
+File Name: C:\Users\Kamra\Desktop\temp\buzzworthystudio.com\img\approach\icon-talk.png
+Content Type: image/png
+
+Uri: http://buzzworthystudio.com/img/approach/icon-think.png
+File Name: C:\Users\Kamra\Desktop\temp\buzzworthystudio.com\img\approach\icon-think.png
+Content Type: image/png
+
+Uri: http://buzzworthystudio.com/img/approach/icon-design.png
+File Name: C:\Users\Kamra\Desktop\temp\buzzworthystudio.com\img\approach\icon-design.png
+Content Type: image/png
+
+Uri: http://buzzworthystudio.com/img/approach/icon-develop.png
+File Name: C:\Users\Kamra\Desktop\temp\buzzworthystudio.com\img\approach\icon-develop.png
+Content Type: image/png
+
+Uri: http://buzzworthystudio.com/img/approach/icon-deploy.png
+File Name: C:\Users\Kamra\Desktop\temp\buzzworthystudio.com\img\approach\icon-deploy.png
+Content Type: image/png
+
+Uri: http://buzzworthystudio.com/img/approach/icon-support.png
+File Name: C:\Users\Kamra\Desktop\temp\buzzworthystudio.com\img\approach\icon-support.png
+Content Type: image/png
+
+Uri: http://buzzworthystudio.com/img/studio/aw-bs-w-sotd.png
+File Name: C:\Users\Kamra\Desktop\temp\buzzworthystudio.com\img\studio\aw-bs-w-sotd.png
+Content Type: image/png
+
+Uri: http://buzzworthystudio.com/img/studio/aw-bs-cssda.png
+File Name: C:\Users\Kamra\Desktop\temp\buzzworthystudio.com\img\studio\aw-bs-cssda.png
+Content Type: image/png
+
+Uri: http://buzzworthystudio.com/img/studio/aw-csswinner.png
+File Name: C:\Users\Kamra\Desktop\temp\buzzworthystudio.com\img\studio\aw-csswinner.png
+Content Type: image/png
+
+Uri: http://buzzworthystudio.com/img/studio/aw-cssda-ui.png
+File Name: C:\Users\Kamra\Desktop\temp\buzzworthystudio.com\img\studio\aw-cssda-ui.png
+Content Type: image/png
+
+Uri: http://buzzworthystudio.com/img/studio/aw-cssda-ux.png
+File Name: C:\Users\Kamra\Desktop\temp\buzzworthystudio.com\img\studio\aw-cssda-ux.png
+Content Type: image/png
+
+Uri: http://buzzworthystudio.com/img/studio/aw-cssda-inn.png
+File Name: C:\Users\Kamra\Desktop\temp\buzzworthystudio.com\img\studio\aw-cssda-inn.png
+Content Type: image/png
+
+Uri: http://buzzworthystudio.com/img/studio/aw-bs-w.png
+File Name: C:\Users\Kamra\Desktop\temp\buzzworthystudio.com\img\studio\aw-bs-w.png
+Content Type: image/png
+
+Uri: http://buzzworthystudio.com/img/studio/aw-jm-cssda.png
+File Name: C:\Users\Kamra\Desktop\temp\buzzworthystudio.com\img\studio\aw-jm-cssda.png
+Content Type: image/png
+
+Uri: http://buzzworthystudio.com/img/studio/aw-jm-w.png
+File Name: C:\Users\Kamra\Desktop\temp\buzzworthystudio.com\img\studio\aw-jm-w.png
+Content Type: image/png
+
+Uri: http://buzzworthystudio.com/img/_svg/icon-swipe.svg
+File Name: C:\Users\Kamra\Desktop\temp\buzzworthystudio.com\img\_svg\icon-swipe.svg
+Content Type: image/svg+xml
+
+Uri: http://buzzworthystudio.com/img/_svg/icon-swipe-hand.svg
+File Name: C:\Users\Kamra\Desktop\temp\buzzworthystudio.com\img\_svg\icon-swipe-hand.svg
+Content Type: image/svg+xml
+
+Uri: http://buzzworthystudio.com/img/studio/client-hover-wework.png
+File Name: C:\Users\Kamra\Desktop\temp\buzzworthystudio.com\img\studio\client-hover-wework.png
+Content Type: image/png
+
+Uri: http://buzzworthystudio.com/img/studio/client-hover-bareburger.png
+File Name: C:\Users\Kamra\Desktop\temp\buzzworthystudio.com\img\studio\client-hover-bareburger.png
+Content Type: image/png
+
+Uri: http://buzzworthystudio.com/img/studio/client-hover-betches.png
+File Name: C:\Users\Kamra\Desktop\temp\buzzworthystudio.com\img\studio\client-hover-betches.png
+Content Type: image/png
+
+Uri: http://buzzworthystudio.com/img/studio/client-hover-storyverse.png
+File Name: C:\Users\Kamra\Desktop\temp\buzzworthystudio.com\img\studio\client-hover-storyverse.png
+Content Type: image/png
+
+Uri: http://buzzworthystudio.com/img/studio/client-hover-allpro.png
+File Name: C:\Users\Kamra\Desktop\temp\buzzworthystudio.com\img\studio\client-hover-allpro.png
+Content Type: image/png
+
+Uri: http://buzzworthystudio.com/img/studio/client-hover-grapeseed.png
+File Name: C:\Users\Kamra\Desktop\temp\buzzworthystudio.com\img\studio\client-hover-grapeseed.png
+Content Type: image/png
+
+Uri: http://buzzworthystudio.com/img/studio/client-hover-taylor.png
+File Name: C:\Users\Kamra\Desktop\temp\buzzworthystudio.com\img\studio\client-hover-taylor.png
+Content Type: image/png
+
+Uri: http://buzzworthystudio.com/img/studio/client-hover-modernmd.png
+File Name: C:\Users\Kamra\Desktop\temp\buzzworthystudio.com\img\studio\client-hover-modernmd.png
+Content Type: image/png
+
+Uri: http://buzzworthystudio.com/img/studio/img-poster.png
+File Name: C:\Users\Kamra\Desktop\temp\buzzworthystudio.com\img\studio\img-poster.png
+Content Type: image/png
+
+Uri: http://buzzworthystudio.com/img/studio/studio-team.png
+File Name: C:\Users\Kamra\Desktop\temp\buzzworthystudio.com\img\studio\studio-team.png
+Content Type: image/png
+
+Uri: http://buzzworthystudio.com/img/approach/icon-talk.gif
+File Name: C:\Users\Kamra\Desktop\temp\buzzworthystudio.com\img\approach\icon-talk.gif
+Content Type: image/gif
+
+Uri: http://buzzworthystudio.com/img/approach/icon-think.gif
+File Name: C:\Users\Kamra\Desktop\temp\buzzworthystudio.com\img\approach\icon-think.gif
+Content Type: image/gif
+
+Uri: http://buzzworthystudio.com/img/approach/icon-design.gif
+File Name: C:\Users\Kamra\Desktop\temp\buzzworthystudio.com\img\approach\icon-design.gif
+Content Type: image/gif
+
+Uri: http://buzzworthystudio.com/img/approach/icon-develop.gif
+File Name: C:\Users\Kamra\Desktop\temp\buzzworthystudio.com\img\approach\icon-develop.gif
+Content Type: image/gif
+
+Uri: http://buzzworthystudio.com/img/approach/icon-deploy.gif
+File Name: C:\Users\Kamra\Desktop\temp\buzzworthystudio.com\img\approach\icon-deploy.gif
+Content Type: image/gif
+
+Uri: http://buzzworthystudio.com/img/approach/icon-support.gif
+File Name: C:\Users\Kamra\Desktop\temp\buzzworthystudio.com\img\approach\icon-support.gif
+Content Type: image/gif
+
+Uri: http://buzzworthystudio.com/img/team/team-gary.jpg
+File Name: C:\Users\Kamra\Desktop\temp\buzzworthystudio.com\img\team\team-gary.jpeg
+Content Type: image/jpeg
+
+Uri: http://buzzworthystudio.com/img/team/team-juraj.jpg
+File Name: C:\Users\Kamra\Desktop\temp\buzzworthystudio.com\img\team\team-juraj.jpeg
+Content Type: image/jpeg
+
+Uri: http://buzzworthystudio.com/img/team/circle-logo-text.gif
+File Name: C:\Users\Kamra\Desktop\temp\buzzworthystudio.com\img\team\circle-logo-text.gif
+Content Type: image/gif
+
+Uri: http://buzzworthystudio.com/img/team/team-marko.jpg
+File Name: C:\Users\Kamra\Desktop\temp\buzzworthystudio.com\img\team\team-marko.jpeg
+Content Type: image/jpeg
+
+Uri: http://buzzworthystudio.com/img/team/team-matt.jpg
+File Name: C:\Users\Kamra\Desktop\temp\buzzworthystudio.com\img\team\team-matt.jpeg
+Content Type: image/jpeg
+
+Uri: http://buzzworthystudio.com/img/team/team-darren.jpg
+File Name: C:\Users\Kamra\Desktop\temp\buzzworthystudio.com\img\team\team-darren.jpeg
+Content Type: image/jpeg
+
+Uri: http://buzzworthystudio.com/img/team/team-dan.jpg
+File Name: C:\Users\Kamra\Desktop\temp\buzzworthystudio.com\img\team\team-dan.jpeg
+Content Type: image/jpeg
+
+Uri: http://buzzworthystudio.com/img/team/team-cap-animation.gif
+File Name: C:\Users\Kamra\Desktop\temp\buzzworthystudio.com\img\team\team-cap-animation.gif
+Content Type: image/gif
+
+Uri: http://buzzworthystudio.com/img/team/team-bear.jpg
+File Name: C:\Users\Kamra\Desktop\temp\buzzworthystudio.com\img\team\team-bear.jpeg
+Content Type: image/jpeg
+
+Uri: http://buzzworthystudio.com/img/team/team-dave.jpg
+File Name: C:\Users\Kamra\Desktop\temp\buzzworthystudio.com\img\team\team-dave.jpeg
+Content Type: image/jpeg
+
+Uri: http://buzzworthystudio.com/img/team/team-janko.jpg
+File Name: C:\Users\Kamra\Desktop\temp\buzzworthystudio.com\img\team\team-janko.jpeg
+Content Type: image/jpeg
+
+Uri: http://buzzworthystudio.com/img/team/team-jacob.jpg
+File Name: C:\Users\Kamra\Desktop\temp\buzzworthystudio.com\img\team\team-jacob.jpeg
+Content Type: image/jpeg
+
+Uri: http://buzzworthystudio.com/img/team/bag.png
+File Name: C:\Users\Kamra\Desktop\temp\buzzworthystudio.com\img\team\bag.png
+Content Type: image/png
+
+Uri: http://buzzworthystudio.com/img/img-work.png
+File Name: C:\Users\Kamra\Desktop\temp\buzzworthystudio.com\img\img-work.png
+Content Type: image/png
+
+Uri: http://buzzworthystudio.com/img/funzone/studio-video.mp4
+File Name: C:\Users\Kamra\Desktop\temp\buzzworthystudio.com\img\funzone\studio-video.mp4
+Content Type: video/mp4
+
+Uri: http://buzzworthystudio.com/img/funzone/ww-hp.png
+File Name: C:\Users\Kamra\Desktop\temp\buzzworthystudio.com\img\funzone\ww-hp.png
+Content Type: image/png
+
+Uri: http://buzzworthystudio.com/img/funzone/cssda-bs.jpg
+File Name: C:\Users\Kamra\Desktop\temp\buzzworthystudio.com\img\funzone\cssda-bs.jpeg
+Content Type: image/jpeg
+
+Uri: http://buzzworthystudio.com/img/funzone/dave-dance.mp4
+File Name: C:\Users\Kamra\Desktop\temp\buzzworthystudio.com\img\funzone\dave-dance.mp4
+Content Type: video/mp4
+
+Uri: http://buzzworthystudio.com/img/funzone/motto-poster.jpg
+File Name: C:\Users\Kamra\Desktop\temp\buzzworthystudio.com\img\funzone\motto-poster.jpeg
+Content Type: image/jpeg
+
+Uri: http://buzzworthystudio.com/img/funzone/wework-creative-hp.mp4
+File Name: C:\Users\Kamra\Desktop\temp\buzzworthystudio.com\img\funzone\wework-creative-hp.mp4
+Content Type: video/mp4
+
+Uri: http://buzzworthystudio.com/img/funzone/grapeseed.png
+File Name: C:\Users\Kamra\Desktop\temp\buzzworthystudio.com\img\funzone\grapeseed.png
+Content Type: image/png
+
+Uri: http://buzzworthystudio.com/img/funzone/trip-gary.jpg
+File Name: C:\Users\Kamra\Desktop\temp\buzzworthystudio.com\img\funzone\trip-gary.jpeg
+Content Type: image/jpeg
+
+Uri: http://buzzworthystudio.com/img/funzone/betches-brand.gif
+File Name: C:\Users\Kamra\Desktop\temp\buzzworthystudio.com\img\funzone\betches-brand.gif
+Content Type: image/gif
+
+Uri: http://buzzworthystudio.com/img/funzone/taylor-envelope.jpg
+File Name: C:\Users\Kamra\Desktop\temp\buzzworthystudio.com\img\funzone\taylor-envelope.jpeg
+Content Type: image/jpeg
+
+Uri: http://buzzworthystudio.com/img/funzone/rr-prototype.mp4
+File Name: C:\Users\Kamra\Desktop\temp\buzzworthystudio.com\img\funzone\rr-prototype.mp4
+Content Type: video/mp4
+
+Uri: http://buzzworthystudio.com/img/funzone/betches-monika.jpg
+File Name: C:\Users\Kamra\Desktop\temp\buzzworthystudio.com\img\funzone\betches-monika.jpeg
+Content Type: image/jpeg
+
+Uri: http://buzzworthystudio.com/img/funzone/ysg-brand.png
+File Name: C:\Users\Kamra\Desktop\temp\buzzworthystudio.com\img\funzone\ysg-brand.png
+Content Type: image/png
+
+Uri: http://buzzworthystudio.com/img/funzone/whiteboard.jpg
+File Name: C:\Users\Kamra\Desktop\temp\buzzworthystudio.com\img\funzone\whiteboard.jpeg
+Content Type: image/jpeg
+
+Uri: http://buzzworthystudio.com/img/funzone/bzz-3d-logo.mp4
+File Name: C:\Users\Kamra\Desktop\temp\buzzworthystudio.com\img\funzone\bzz-3d-logo.mp4
+Content Type: video/mp4
+
+Uri: http://buzzworthystudio.com/img/funzone/ice-cold.png
+File Name: C:\Users\Kamra\Desktop\temp\buzzworthystudio.com\img\funzone\ice-cold.png
+Content Type: image/png
+
+Uri: http://buzzworthystudio.com/img/funzone/desk-working-allpro.jpg
+File Name: C:\Users\Kamra\Desktop\temp\buzzworthystudio.com\img\funzone\desk-working-allpro.jpeg
+Content Type: image/jpeg
+
+Uri: http://buzzworthystudio.com/img/funzone/coronita.jpg
+File Name: C:\Users\Kamra\Desktop\temp\buzzworthystudio.com\img\funzone\coronita.jpeg
+Content Type: image/jpeg
+
+Uri: http://buzzworthystudio.com/img/funzone/social-animation.gif
+File Name: C:\Users\Kamra\Desktop\temp\buzzworthystudio.com\img\funzone\social-animation.gif
+Content Type: image/gif
+
+Uri: http://buzzworthystudio.com/img/funzone/hp-refined.mp4
+File Name: C:\Users\Kamra\Desktop\temp\buzzworthystudio.com\img\funzone\hp-refined.mp4
+Content Type: video/mp4
+
+Uri: http://buzzworthystudio.com/img/funzone/dan-outside.jpg
+File Name: C:\Users\Kamra\Desktop\temp\buzzworthystudio.com\img\funzone\dan-outside.jpeg
+Content Type: image/jpeg
+
+Uri: http://buzzworthystudio.com/img/funzone/cheers-video.mp4
+File Name: C:\Users\Kamra\Desktop\temp\buzzworthystudio.com\img\funzone\cheers-video.mp4
+Content Type: video/mp4
+
+Uri: http://buzzworthystudio.com/img/funzone/pizza.jpg
+File Name: C:\Users\Kamra\Desktop\temp\buzzworthystudio.com\img\funzone\pizza.jpeg
+Content Type: image/jpeg
+
+Uri: http://buzzworthystudio.com/img/funzone/team-caps.jpg
+File Name: C:\Users\Kamra\Desktop\temp\buzzworthystudio.com\img\funzone\team-caps.jpeg
+Content Type: image/jpeg
+
+Uri: http://buzzworthystudio.com/img/funzone/remarkable.jpg
+File Name: C:\Users\Kamra\Desktop\temp\buzzworthystudio.com\img\funzone\remarkable.jpeg
+Content Type: image/jpeg
+
+Uri: http://buzzworthystudio.com/img/funzone/story-verse.mp4
+File Name: C:\Users\Kamra\Desktop\temp\buzzworthystudio.com\img\funzone\story-verse.mp4
+Content Type: video/mp4
+
+Uri: http://buzzworthystudio.com/img/projects/betches/hero-hand.png
+File Name: C:\Users\Kamra\Desktop\temp\buzzworthystudio.com\img\projects\betches\hero-hand.png
+Content Type: image/png
+
+Uri: http://buzzworthystudio.com/img/projects/betches/betches-white.svg
+File Name: C:\Users\Kamra\Desktop\temp\buzzworthystudio.com\img\projects\betches\betches-white.svg
+Content Type: image/svg+xml
+
+Uri: http://buzzworthystudio.com/img/projects/betches/icon-story.svg
+File Name: C:\Users\Kamra\Desktop\temp\buzzworthystudio.com\img\projects\betches\icon-story.svg
+Content Type: image/svg+xml
+
+Uri: http://buzzworthystudio.com/img/projects/betches/story-logo.svg
+File Name: C:\Users\Kamra\Desktop\temp\buzzworthystudio.com\img\projects\betches\story-logo.svg
+Content Type: image/svg+xml
+
+Uri: http://buzzworthystudio.com/img/projects/betches/story-sketch.png
+File Name: C:\Users\Kamra\Desktop\temp\buzzworthystudio.com\img\projects\betches\story-sketch.png
+Content Type: image/png
+
+Uri: http://buzzworthystudio.com/img/projects/betches/story-imac.png
+File Name: C:\Users\Kamra\Desktop\temp\buzzworthystudio.com\img\projects\betches\story-imac.png
+Content Type: image/png
+
+Uri: http://buzzworthystudio.com/img/projects/betches/story-gif.gif
+File Name: C:\Users\Kamra\Desktop\temp\buzzworthystudio.com\img\projects\betches\story-gif.gif
+Content Type: image/gif
+
+Uri: http://buzzworthystudio.com/img/projects/betches/icon-ux.svg
+File Name: C:\Users\Kamra\Desktop\temp\buzzworthystudio.com\img\projects\betches\icon-ux.svg
+Content Type: image/svg+xml
+
+Uri: http://buzzworthystudio.com/img/projects/betches/ux-ipad.png
+File Name: C:\Users\Kamra\Desktop\temp\buzzworthystudio.com\img\projects\betches\ux-ipad.png
+Content Type: image/png
+
+Uri: http://buzzworthystudio.com/img/projects/betches/icon-design.svg
+File Name: C:\Users\Kamra\Desktop\temp\buzzworthystudio.com\img\projects\betches\icon-design.svg
+Content Type: image/svg+xml
+
+Uri: http://buzzworthystudio.com/img/projects/betches/design-gif.gif
+File Name: C:\Users\Kamra\Desktop\temp\buzzworthystudio.com\img\projects\betches\design-gif.gif
+Content Type: image/gif
+
+Uri: http://buzzworthystudio.com/img/projects/betches/design-feather.png
+File Name: C:\Users\Kamra\Desktop\temp\buzzworthystudio.com\img\projects\betches\design-feather.png
+Content Type: image/png
+
+Uri: http://buzzworthystudio.com/img/projects/betches/design-font.png
+File Name: C:\Users\Kamra\Desktop\temp\buzzworthystudio.com\img\projects\betches\design-font.png
+Content Type: image/png
+
+Uri: http://buzzworthystudio.com/img/projects/betches/design-bc.png
+File Name: C:\Users\Kamra\Desktop\temp\buzzworthystudio.com\img\projects\betches\design-bc.png
+Content Type: image/png
+
+Uri: http://buzzworthystudio.com/img/projects/betches/design-icons.png
+File Name: C:\Users\Kamra\Desktop\temp\buzzworthystudio.com\img\projects\betches\design-icons.png
+Content Type: image/png
+
+Uri: http://buzzworthystudio.com/img/projects/betches/design-letterhead.png
+File Name: C:\Users\Kamra\Desktop\temp\buzzworthystudio.com\img\projects\betches\design-letterhead.png
+Content Type: image/png
+
+Uri: http://buzzworthystudio.com/img/projects/betches/design-sketch.png
+File Name: C:\Users\Kamra\Desktop\temp\buzzworthystudio.com\img\projects\betches\design-sketch.png
+Content Type: image/png
+
+Uri: http://buzzworthystudio.com/img/projects/betches/design-macbook-pro.png
+File Name: C:\Users\Kamra\Desktop\temp\buzzworthystudio.com\img\projects\betches\design-macbook-pro.png
+Content Type: image/png
+
+Uri: http://buzzworthystudio.com/img/projects/betches/design-phone-case.png
+File Name: C:\Users\Kamra\Desktop\temp\buzzworthystudio.com\img\projects\betches\design-phone-case.png
+Content Type: image/png
+
+Uri: http://buzzworthystudio.com/img/projects/betches/design-gif-2.gif
+File Name: C:\Users\Kamra\Desktop\temp\buzzworthystudio.com\img\projects\betches\design-gif-2.gif
+Content Type: image/gif
+
+Uri: http://buzzworthystudio.com/img/projects/betches/design-gif-3.gif
+File Name: C:\Users\Kamra\Desktop\temp\buzzworthystudio.com\img\projects\betches\design-gif-3.gif
+Content Type: image/gif
+
+Uri: http://buzzworthystudio.com/img/projects/betches/design-phrase.png
+File Name: C:\Users\Kamra\Desktop\temp\buzzworthystudio.com\img\projects\betches\design-phrase.png
+Content Type: image/png
+
+Uri: http://buzzworthystudio.com/img/projects/betches/design-phone-screen.png
+File Name: C:\Users\Kamra\Desktop\temp\buzzworthystudio.com\img\projects\betches\design-phone-screen.png
+Content Type: image/png
+
+Uri: http://buzzworthystudio.com/img/projects/betches/design-lips.png
+File Name: C:\Users\Kamra\Desktop\temp\buzzworthystudio.com\img\projects\betches\design-lips.png
+Content Type: image/png
+
+Uri: http://buzzworthystudio.com/img/projects/betches/design-pizza.png
+File Name: C:\Users\Kamra\Desktop\temp\buzzworthystudio.com\img\projects\betches\design-pizza.png
+Content Type: image/png
+
+Uri: http://buzzworthystudio.com/img/projects/betches/design-phone-window.png
+File Name: C:\Users\Kamra\Desktop\temp\buzzworthystudio.com\img\projects\betches\design-phone-window.png
+Content Type: image/png
+
+Uri: http://buzzworthystudio.com/img/projects/betches/design-macbook-white.png
+File Name: C:\Users\Kamra\Desktop\temp\buzzworthystudio.com\img\projects\betches\design-macbook-white.png
+Content Type: image/png
+
+Uri: http://buzzworthystudio.com/img/projects/betches/design-video-stats.png
+File Name: C:\Users\Kamra\Desktop\temp\buzzworthystudio.com\img\projects\betches\design-video-stats.png
+Content Type: image/png
+
+Uri: http://buzzworthystudio.com/img/projects/betches/design-phone-white-1.png
+File Name: C:\Users\Kamra\Desktop\temp\buzzworthystudio.com\img\projects\betches\design-phone-white-1.png
+Content Type: image/png
+
+Uri: http://buzzworthystudio.com/img/projects/betches/design-phone-white-2.png
+File Name: C:\Users\Kamra\Desktop\temp\buzzworthystudio.com\img\projects\betches\design-phone-white-2.png
+Content Type: image/png
+
+Uri: http://buzzworthystudio.com/img/projects/betches/design-gif-4.gif
+File Name: C:\Users\Kamra\Desktop\temp\buzzworthystudio.com\img\projects\betches\design-gif-4.gif
+Content Type: image/gif
+
+Uri: http://buzzworthystudio.com/img/projects/betches/design-notes.png
+File Name: C:\Users\Kamra\Desktop\temp\buzzworthystudio.com\img\projects\betches\design-notes.png
+Content Type: image/png
+
+Uri: http://buzzworthystudio.com/img/projects/betches/design-podcast.png
+File Name: C:\Users\Kamra\Desktop\temp\buzzworthystudio.com\img\projects\betches\design-podcast.png
+Content Type: image/png
+
+Uri: http://buzzworthystudio.com/img/projects/betches/design-real-prev.png
+File Name: C:\Users\Kamra\Desktop\temp\buzzworthystudio.com\img\projects\betches\design-real-prev.png
+Content Type: image/png
+
+Uri: http://buzzworthystudio.com/img/projects/betches/icon-develop.svg
+File Name: C:\Users\Kamra\Desktop\temp\buzzworthystudio.com\img\projects\betches\icon-develop.svg
+Content Type: image/svg+xml
+
+Uri: http://buzzworthystudio.com/img/projects/betches/img-arrow.svg
+File Name: C:\Users\Kamra\Desktop\temp\buzzworthystudio.com\img\projects\betches\img-arrow.svg
+Content Type: image/svg+xml
+
+Uri: http://buzzworthystudio.com/img/projects/allpro/intro-prototype.mp4
+File Name: C:\Users\Kamra\Desktop\temp\buzzworthystudio.com\img\projects\allpro\intro-prototype.mp4
+Content Type: video/mp4
+
+Uri: http://buzzworthystudio.com/img/projects/allpro/icon-story.svg
+File Name: C:\Users\Kamra\Desktop\temp\buzzworthystudio.com\img\projects\allpro\icon-story.svg
+Content Type: image/svg+xml
+
+Uri: http://buzzworthystudio.com/img/projects/allpro/story-img.jpg
+File Name: C:\Users\Kamra\Desktop\temp\buzzworthystudio.com\img\projects\allpro\story-img.jpeg
+Content Type: image/jpeg
+
+Uri: http://buzzworthystudio.com/img/projects/allpro/story-imac.png
+File Name: C:\Users\Kamra\Desktop\temp\buzzworthystudio.com\img\projects\allpro\story-imac.png
+Content Type: image/png
+
+Uri: http://buzzworthystudio.com/img/projects/allpro/story-ball.png
+File Name: C:\Users\Kamra\Desktop\temp\buzzworthystudio.com\img\projects\allpro\story-ball.png
+Content Type: image/png
+
+Uri: http://buzzworthystudio.com/img/projects/allpro/photo-slide-1.jpg
+File Name: C:\Users\Kamra\Desktop\temp\buzzworthystudio.com\img\projects\allpro\photo-slide-1.jpeg
+Content Type: image/jpeg
+
+Uri: http://buzzworthystudio.com/img/projects/allpro/photo-slide-2.jpg
+File Name: C:\Users\Kamra\Desktop\temp\buzzworthystudio.com\img\projects\allpro\photo-slide-2.jpeg
+Content Type: image/jpeg
+
+Uri: http://buzzworthystudio.com/img/projects/allpro/photo-slide-3.jpg
+File Name: C:\Users\Kamra\Desktop\temp\buzzworthystudio.com\img\projects\allpro\photo-slide-3.jpeg
+Content Type: image/jpeg
+
+Uri: http://buzzworthystudio.com/img/projects/allpro/photo-slide-4.jpg
+File Name: C:\Users\Kamra\Desktop\temp\buzzworthystudio.com\img\projects\allpro\photo-slide-4.jpeg
+Content Type: image/jpeg
+
+Uri: http://buzzworthystudio.com/img/projects/allpro/icon-ux.svg
+File Name: C:\Users\Kamra\Desktop\temp\buzzworthystudio.com\img\projects\allpro\icon-ux.svg
+Content Type: image/svg+xml
+
+Uri: http://buzzworthystudio.com/img/projects/allpro/ux-img.png
+File Name: C:\Users\Kamra\Desktop\temp\buzzworthystudio.com\img\projects\allpro\ux-img.png
+Content Type: image/png
+
+Uri: http://buzzworthystudio.com/img/projects/allpro/icon-design.svg
+File Name: C:\Users\Kamra\Desktop\temp\buzzworthystudio.com\img\projects\allpro\icon-design.svg
+Content Type: image/svg+xml
+
+Uri: http://buzzworthystudio.com/img/projects/allpro/design-multi-bat.jpg
+File Name: C:\Users\Kamra\Desktop\temp\buzzworthystudio.com\img\projects\allpro\design-multi-bat.jpeg
+Content Type: image/jpeg
+
+Uri: http://buzzworthystudio.com/img/projects/allpro/design-multi-ball.png
+File Name: C:\Users\Kamra\Desktop\temp\buzzworthystudio.com\img\projects\allpro\design-multi-ball.png
+Content Type: image/png
+
+Uri: http://buzzworthystudio.com/img/projects/allpro/design-multi-ipad.png
+File Name: C:\Users\Kamra\Desktop\temp\buzzworthystudio.com\img\projects\allpro\design-multi-ipad.png
+Content Type: image/png
+
+Uri: http://buzzworthystudio.com/img/projects/allpro/design-multi-macbook.png
+File Name: C:\Users\Kamra\Desktop\temp\buzzworthystudio.com\img\projects\allpro\design-multi-macbook.png
+Content Type: image/png
+
+Uri: http://buzzworthystudio.com/img/projects/allpro/design-multi-iphone.png
+File Name: C:\Users\Kamra\Desktop\temp\buzzworthystudio.com\img\projects\allpro\design-multi-iphone.png
+Content Type: image/png
+
+Uri: http://buzzworthystudio.com/img/projects/allpro/design-theme.jpg
+File Name: C:\Users\Kamra\Desktop\temp\buzzworthystudio.com\img\projects\allpro\design-theme.jpeg
+Content Type: image/jpeg
+
+Uri: http://buzzworthystudio.com/img/projects/allpro/video-placeholder.jpg
+File Name: C:\Users\Kamra\Desktop\temp\buzzworthystudio.com\img\projects\allpro\video-placeholder.jpeg
+Content Type: image/jpeg
+
+Uri: http://buzzworthystudio.com/img/projects/allpro/design-mobile-3.png
+File Name: C:\Users\Kamra\Desktop\temp\buzzworthystudio.com\img\projects\allpro\design-mobile-3.png
+Content Type: image/png
+
+Uri: http://buzzworthystudio.com/img/projects/allpro/design-mobile-gloves.png
+File Name: C:\Users\Kamra\Desktop\temp\buzzworthystudio.com\img\projects\allpro\design-mobile-gloves.png
+Content Type: image/png
+
+Uri: http://buzzworthystudio.com/img/projects/allpro/design-mobile-1.png
+File Name: C:\Users\Kamra\Desktop\temp\buzzworthystudio.com\img\projects\allpro\design-mobile-1.png
+Content Type: image/png
+
+Uri: http://buzzworthystudio.com/img/projects/allpro/design-mobile-2.png
+File Name: C:\Users\Kamra\Desktop\temp\buzzworthystudio.com\img\projects\allpro\design-mobile-2.png
+Content Type: image/png
+
+Uri: http://buzzworthystudio.com/img/projects/allpro/design-ui-1.jpg
+File Name: C:\Users\Kamra\Desktop\temp\buzzworthystudio.com\img\projects\allpro\design-ui-1.jpeg
+Content Type: image/jpeg
+
+Uri: http://buzzworthystudio.com/img/projects/allpro/design-ui-2.png
+File Name: C:\Users\Kamra\Desktop\temp\buzzworthystudio.com\img\projects\allpro\design-ui-2.png
+Content Type: image/png
+
+Uri: http://buzzworthystudio.com/img/projects/allpro/design-slider-slide-1.png
+File Name: C:\Users\Kamra\Desktop\temp\buzzworthystudio.com\img\projects\allpro\design-slider-slide-1.png
+Content Type: image/png
+
+Uri: http://buzzworthystudio.com/img/projects/allpro/design-slider-slide-2.png
+File Name: C:\Users\Kamra\Desktop\temp\buzzworthystudio.com\img\projects\allpro\design-slider-slide-2.png
+Content Type: image/png
+
+Uri: http://buzzworthystudio.com/img/projects/allpro/design-slider-slide-3.png
+File Name: C:\Users\Kamra\Desktop\temp\buzzworthystudio.com\img\projects\allpro\design-slider-slide-3.png
+Content Type: image/png
+
+Uri: http://buzzworthystudio.com/img/projects/allpro/design-slider-slide-4.png
+File Name: C:\Users\Kamra\Desktop\temp\buzzworthystudio.com\img\projects\allpro\design-slider-slide-4.png
+Content Type: image/png
+
+Uri: http://buzzworthystudio.com/img/projects/allpro/design-slider-slide-5.png
+File Name: C:\Users\Kamra\Desktop\temp\buzzworthystudio.com\img\projects\allpro\design-slider-slide-5.png
+Content Type: image/png
+
+Uri: http://buzzworthystudio.com/img/projects/allpro/icon-develop.svg
+File Name: C:\Users\Kamra\Desktop\temp\buzzworthystudio.com\img\projects\allpro\icon-develop.svg
+Content Type: image/svg+xml
+
+Uri: http://buzzworthystudio.com/img/projects/img-arrow.svg
+File Name: C:\Users\Kamra\Desktop\temp\buzzworthystudio.com\img\projects\img-arrow.svg
+Content Type: image/svg+xml
+
+Uri: http://buzzworthystudio.com/img/projects/cornerstone/main-img-slide-1.jpg
+File Name: C:\Users\Kamra\Desktop\temp\buzzworthystudio.com\img\projects\cornerstone\main-img-slide-1.jpeg
+Content Type: image/jpeg
+
+Uri: http://buzzworthystudio.com/img/projects/cornerstone/main-img-slide-2.jpg
+File Name: C:\Users\Kamra\Desktop\temp\buzzworthystudio.com\img\projects\cornerstone\main-img-slide-2.jpeg
+Content Type: image/jpeg
+
+Uri: http://buzzworthystudio.com/img/projects/cornerstone/main-img-slide-3.jpg
+File Name: C:\Users\Kamra\Desktop\temp\buzzworthystudio.com\img\projects\cornerstone\main-img-slide-3.jpeg
+Content Type: image/jpeg
+
+Uri: http://buzzworthystudio.com/img/projects/cornerstone/main-img-slide-4.jpg
+File Name: C:\Users\Kamra\Desktop\temp\buzzworthystudio.com\img\projects\cornerstone\main-img-slide-4.jpeg
+Content Type: image/jpeg
+
+Uri: http://buzzworthystudio.com/img/projects/cornerstone/main-img-slide-5.jpg
+File Name: C:\Users\Kamra\Desktop\temp\buzzworthystudio.com\img\projects\cornerstone\main-img-slide-5.jpeg
+Content Type: image/jpeg
+
+Uri: http://buzzworthystudio.com/img/projects/cornerstone/main-img-slide-6.jpg
+File Name: C:\Users\Kamra\Desktop\temp\buzzworthystudio.com\img\projects\cornerstone\main-img-slide-6.jpeg
+Content Type: image/jpeg
+
+Uri: http://buzzworthystudio.com/img/projects/cornerstone/icon-story.svg
+File Name: C:\Users\Kamra\Desktop\temp\buzzworthystudio.com\img\projects\cornerstone\icon-story.svg
+Content Type: image/svg+xml
+
+Uri: http://buzzworthystudio.com/img/projects/cornerstone/story-img.jpg
+File Name: C:\Users\Kamra\Desktop\temp\buzzworthystudio.com\img\projects\cornerstone\story-img.jpeg
+Content Type: image/jpeg
+
+Uri: http://buzzworthystudio.com/img/projects/cornerstone/story-ipad.png
+File Name: C:\Users\Kamra\Desktop\temp\buzzworthystudio.com\img\projects\cornerstone\story-ipad.png
+Content Type: image/png
+
+Uri: http://buzzworthystudio.com/img/projects/cornerstone/story-icon.png
+File Name: C:\Users\Kamra\Desktop\temp\buzzworthystudio.com\img\projects\cornerstone\story-icon.png
+Content Type: image/png
+
+Uri: http://buzzworthystudio.com/img/projects/cornerstone/icon-ux.svg
+File Name: C:\Users\Kamra\Desktop\temp\buzzworthystudio.com\img\projects\cornerstone\icon-ux.svg
+Content Type: image/svg+xml
+
+Uri: http://buzzworthystudio.com/img/projects/cornerstone/ux-img.jpg
+File Name: C:\Users\Kamra\Desktop\temp\buzzworthystudio.com\img\projects\cornerstone\ux-img.jpeg
+Content Type: image/jpeg
+
+Uri: http://buzzworthystudio.com/img/projects/cornerstone/icon-design.svg
+File Name: C:\Users\Kamra\Desktop\temp\buzzworthystudio.com\img\projects\cornerstone\icon-design.svg
+Content Type: image/svg+xml
+
+Uri: http://buzzworthystudio.com/img/projects/cornerstone/design-font.png
+File Name: C:\Users\Kamra\Desktop\temp\buzzworthystudio.com\img\projects\cornerstone\design-font.png
+Content Type: image/png
+
+Uri: http://buzzworthystudio.com/img/projects/cornerstone/design-font-img-float-1.png
+File Name: C:\Users\Kamra\Desktop\temp\buzzworthystudio.com\img\projects\cornerstone\design-font-img-float-1.png
+Content Type: image/png
+
+Uri: http://buzzworthystudio.com/img/projects/cornerstone/design-font-img-float-2.png
+File Name: C:\Users\Kamra\Desktop\temp\buzzworthystudio.com\img\projects\cornerstone\design-font-img-float-2.png
+Content Type: image/png
+
+Uri: http://buzzworthystudio.com/img/projects/cornerstone/design-font-choice.png
+File Name: C:\Users\Kamra\Desktop\temp\buzzworthystudio.com\img\projects\cornerstone\design-font-choice.png
+Content Type: image/png
+
+Uri: http://buzzworthystudio.com/img/projects/cornerstone/design-full-img.jpg
+File Name: C:\Users\Kamra\Desktop\temp\buzzworthystudio.com\img\projects\cornerstone\design-full-img.jpeg
+Content Type: image/jpeg
+
+Uri: http://buzzworthystudio.com/img/projects/cornerstone/design-slider-slide-1.png
+File Name: C:\Users\Kamra\Desktop\temp\buzzworthystudio.com\img\projects\cornerstone\design-slider-slide-1.png
+Content Type: image/png
+
+Uri: http://buzzworthystudio.com/img/projects/cornerstone/design-slider-slide-2.png
+File Name: C:\Users\Kamra\Desktop\temp\buzzworthystudio.com\img\projects\cornerstone\design-slider-slide-2.png
+Content Type: image/png
+
+Uri: http://buzzworthystudio.com/img/projects/cornerstone/design-slider-slide-3.png
+File Name: C:\Users\Kamra\Desktop\temp\buzzworthystudio.com\img\projects\cornerstone\design-slider-slide-3.png
+Content Type: image/png
+
+Uri: http://buzzworthystudio.com/img/projects/cornerstone/design-slider-slide-4.png
+File Name: C:\Users\Kamra\Desktop\temp\buzzworthystudio.com\img\projects\cornerstone\design-slider-slide-4.png
+Content Type: image/png
+
+Uri: http://buzzworthystudio.com/img/projects/cornerstone/design-ui-1-icon.svg
+File Name: C:\Users\Kamra\Desktop\temp\buzzworthystudio.com\img\projects\cornerstone\design-ui-1-icon.svg
+Content Type: image/svg+xml
+
+Uri: http://buzzworthystudio.com/img/projects/cornerstone/design-ui-1-circle.svg
+File Name: C:\Users\Kamra\Desktop\temp\buzzworthystudio.com\img\projects\cornerstone\design-ui-1-circle.svg
+Content Type: image/svg+xml
+
+Uri: http://buzzworthystudio.com/img/projects/cornerstone/design-ui-imgs.png
+File Name: C:\Users\Kamra\Desktop\temp\buzzworthystudio.com\img\projects\cornerstone\design-ui-imgs.png
+Content Type: image/png
+
+Uri: http://buzzworthystudio.com/img/projects/cornerstone/design-ui-2.jpg
+File Name: C:\Users\Kamra\Desktop\temp\buzzworthystudio.com\img\projects\cornerstone\design-ui-2.jpeg
+Content Type: image/jpeg
+
+Uri: http://buzzworthystudio.com/img/projects/cornerstone/design-ui-2-icon.svg
+File Name: C:\Users\Kamra\Desktop\temp\buzzworthystudio.com\img\projects\cornerstone\design-ui-2-icon.svg
+Content Type: image/svg+xml
+
+Uri: http://buzzworthystudio.com/img/projects/cornerstone/design-imac.png
+File Name: C:\Users\Kamra\Desktop\temp\buzzworthystudio.com\img\projects\cornerstone\design-imac.png
+Content Type: image/png
+
+Uri: http://buzzworthystudio.com/img/projects/cornerstone/design-imac-img-1.png
+File Name: C:\Users\Kamra\Desktop\temp\buzzworthystudio.com\img\projects\cornerstone\design-imac-img-1.png
+Content Type: image/png
+
+Uri: http://buzzworthystudio.com/img/projects/cornerstone/design-imac-img-2.png
+File Name: C:\Users\Kamra\Desktop\temp\buzzworthystudio.com\img\projects\cornerstone\design-imac-img-2.png
+Content Type: image/png
+
+Uri: http://buzzworthystudio.com/img/projects/cornerstone/design-ui-3-circle.png
+File Name: C:\Users\Kamra\Desktop\temp\buzzworthystudio.com\img\projects\cornerstone\design-ui-3-circle.png
+Content Type: image/png
+
+Uri: http://buzzworthystudio.com/img/projects/cornerstone/design-ui-3-img.png
+File Name: C:\Users\Kamra\Desktop\temp\buzzworthystudio.com\img\projects\cornerstone\design-ui-3-img.png
+Content Type: image/png
+
+Uri: http://buzzworthystudio.com/img/projects/cornerstone/design-ui-3-modal.png
+File Name: C:\Users\Kamra\Desktop\temp\buzzworthystudio.com\img\projects\cornerstone\design-ui-3-modal.png
+Content Type: image/png
+
+Uri: http://buzzworthystudio.com/img/projects/cornerstone/design-video-img.jpg
+File Name: C:\Users\Kamra\Desktop\temp\buzzworthystudio.com\img\projects\cornerstone\design-video-img.jpeg
+Content Type: image/jpeg
+
+Uri: http://buzzworthystudio.com/img/projects/cornerstone/icon-develop.svg
+File Name: C:\Users\Kamra\Desktop\temp\buzzworthystudio.com\img\projects\cornerstone\icon-develop.svg
+Content Type: image/svg+xml
+
+Uri: http://buzzworthystudio.com/img/projects/taylor/logo-white.svg
+File Name: C:\Users\Kamra\Desktop\temp\buzzworthystudio.com\img\projects\taylor\logo-white.svg
+Content Type: image/svg+xml
+
+Uri: http://buzzworthystudio.com/img/projects/taylor/icon-story.svg
+File Name: C:\Users\Kamra\Desktop\temp\buzzworthystudio.com\img\projects\taylor\icon-story.svg
+Content Type: image/svg+xml
+
+Uri: http://buzzworthystudio.com/img/projects/taylor/story-shape.png
+File Name: C:\Users\Kamra\Desktop\temp\buzzworthystudio.com\img\projects\taylor\story-shape.png
+Content Type: image/png
+
+Uri: http://buzzworthystudio.com/img/projects/taylor/story-macbook.png
+File Name: C:\Users\Kamra\Desktop\temp\buzzworthystudio.com\img\projects\taylor\story-macbook.png
+Content Type: image/png
+
+Uri: http://buzzworthystudio.com/img/projects/taylor/story-phone.png
+File Name: C:\Users\Kamra\Desktop\temp\buzzworthystudio.com\img\projects\taylor\story-phone.png
+Content Type: image/png
+
+Uri: http://buzzworthystudio.com/img/projects/taylor/icon-ux.svg
+File Name: C:\Users\Kamra\Desktop\temp\buzzworthystudio.com\img\projects\taylor\icon-ux.svg
+Content Type: image/svg+xml
+
+Uri: http://buzzworthystudio.com/img/projects/taylor/ux-sitemap.png
+File Name: C:\Users\Kamra\Desktop\temp\buzzworthystudio.com\img\projects\taylor\ux-sitemap.png
+Content Type: image/png
+
+Uri: http://buzzworthystudio.com/img/projects/taylor/icon-design.svg
+File Name: C:\Users\Kamra\Desktop\temp\buzzworthystudio.com\img\projects\taylor\icon-design.svg
+Content Type: image/svg+xml
+
+Uri: http://buzzworthystudio.com/img/projects/taylor/design-color-1.png
+File Name: C:\Users\Kamra\Desktop\temp\buzzworthystudio.com\img\projects\taylor\design-color-1.png
+Content Type: image/png
+
+Uri: http://buzzworthystudio.com/img/projects/taylor/design-color-2.png
+File Name: C:\Users\Kamra\Desktop\temp\buzzworthystudio.com\img\projects\taylor\design-color-2.png
+Content Type: image/png
+
+Uri: http://buzzworthystudio.com/img/projects/taylor/design-color-3.png
+File Name: C:\Users\Kamra\Desktop\temp\buzzworthystudio.com\img\projects\taylor\design-color-3.png
+Content Type: image/png
+
+Uri: http://buzzworthystudio.com/img/projects/taylor/design-font.png
+File Name: C:\Users\Kamra\Desktop\temp\buzzworthystudio.com\img\projects\taylor\design-font.png
+Content Type: image/png
+
+Uri: http://buzzworthystudio.com/img/projects/taylor/design-icon-sample.png
+File Name: C:\Users\Kamra\Desktop\temp\buzzworthystudio.com\img\projects\taylor\design-icon-sample.png
+Content Type: image/png
+
+Uri: http://buzzworthystudio.com/img/projects/taylor/design-logo-slide-1.png
+File Name: C:\Users\Kamra\Desktop\temp\buzzworthystudio.com\img\projects\taylor\design-logo-slide-1.png
+Content Type: image/png
+
+Uri: http://buzzworthystudio.com/img/projects/taylor/design-logo-slide-2.png
+File Name: C:\Users\Kamra\Desktop\temp\buzzworthystudio.com\img\projects\taylor\design-logo-slide-2.png
+Content Type: image/png
+
+Uri: http://buzzworthystudio.com/img/projects/taylor/design-logo-slide-3.png
+File Name: C:\Users\Kamra\Desktop\temp\buzzworthystudio.com\img\projects\taylor\design-logo-slide-3.png
+Content Type: image/png
+
+Uri: http://buzzworthystudio.com/img/projects/taylor/design-logo-slide-4.png
+File Name: C:\Users\Kamra\Desktop\temp\buzzworthystudio.com\img\projects\taylor\design-logo-slide-4.png
+Content Type: image/png
+
+Uri: http://buzzworthystudio.com/img/projects/taylor/design-envelopes.jpg
+File Name: C:\Users\Kamra\Desktop\temp\buzzworthystudio.com\img\projects\taylor\design-envelopes.jpeg
+Content Type: image/jpeg
+
+Uri: http://buzzworthystudio.com/img/projects/taylor/design-letterhead.jpg
+File Name: C:\Users\Kamra\Desktop\temp\buzzworthystudio.com\img\projects\taylor\design-letterhead.jpeg
+Content Type: image/jpeg
+
+Uri: http://buzzworthystudio.com/img/projects/taylor/design-icon-sample-2.png
+File Name: C:\Users\Kamra\Desktop\temp\buzzworthystudio.com\img\projects\taylor\design-icon-sample-2.png
+Content Type: image/png
+
+Uri: http://buzzworthystudio.com/img/projects/taylor/design-icon-sample-3.png
+File Name: C:\Users\Kamra\Desktop\temp\buzzworthystudio.com\img\projects\taylor\design-icon-sample-3.png
+Content Type: image/png
+
+Uri: http://buzzworthystudio.com/img/projects/taylor/design-bag.png
+File Name: C:\Users\Kamra\Desktop\temp\buzzworthystudio.com\img\projects\taylor\design-bag.png
+Content Type: image/png
+
+Uri: http://buzzworthystudio.com/img/projects/taylor/design-ipad.png
+File Name: C:\Users\Kamra\Desktop\temp\buzzworthystudio.com\img\projects\taylor\design-ipad.png
+Content Type: image/png
+
+Uri: http://buzzworthystudio.com/img/projects/taylor/design-iphone.png
+File Name: C:\Users\Kamra\Desktop\temp\buzzworthystudio.com\img\projects\taylor\design-iphone.png
+Content Type: image/png
+
+Uri: http://buzzworthystudio.com/img/projects/taylor/design-ui-1.png
+File Name: C:\Users\Kamra\Desktop\temp\buzzworthystudio.com\img\projects\taylor\design-ui-1.png
+Content Type: image/png
+
+Uri: http://buzzworthystudio.com/img/projects/taylor/design-ui-video.mp4
+File Name: C:\Users\Kamra\Desktop\temp\buzzworthystudio.com\img\projects\taylor\design-ui-video.mp4
+Content Type: video/mp4
+
+Uri: http://buzzworthystudio.com/img/projects/taylor/design-ui-2.png
+File Name: C:\Users\Kamra\Desktop\temp\buzzworthystudio.com\img\projects\taylor\design-ui-2.png
+Content Type: image/png
+
+Uri: http://buzzworthystudio.com/img/projects/taylor/design-perspective-shadow.png
+File Name: C:\Users\Kamra\Desktop\temp\buzzworthystudio.com\img\projects\taylor\design-perspective-shadow.png
+Content Type: image/png
+
+Uri: http://buzzworthystudio.com/img/projects/taylor/design-perspective.png
+File Name: C:\Users\Kamra\Desktop\temp\buzzworthystudio.com\img\projects\taylor\design-perspective.png
+Content Type: image/png
+
+Uri: http://buzzworthystudio.com/img/projects/taylor/design-ui-3.png
+File Name: C:\Users\Kamra\Desktop\temp\buzzworthystudio.com\img\projects\taylor\design-ui-3.png
+Content Type: image/png
+
+Uri: http://buzzworthystudio.com/img/projects/taylor/design-ui-4.png
+File Name: C:\Users\Kamra\Desktop\temp\buzzworthystudio.com\img\projects\taylor\design-ui-4.png
+Content Type: image/png
+
+Uri: http://buzzworthystudio.com/img/projects/taylor/design-ui-5.png
+File Name: C:\Users\Kamra\Desktop\temp\buzzworthystudio.com\img\projects\taylor\design-ui-5.png
+Content Type: image/png
+
+Uri: http://buzzworthystudio.com/img/projects/taylor/design-device-slide-1.png
+File Name: C:\Users\Kamra\Desktop\temp\buzzworthystudio.com\img\projects\taylor\design-device-slide-1.png
+Content Type: image/png
+
+Uri: http://buzzworthystudio.com/img/projects/taylor/design-device-slide-2.png
+File Name: C:\Users\Kamra\Desktop\temp\buzzworthystudio.com\img\projects\taylor\design-device-slide-2.png
+Content Type: image/png
+
+Uri: http://buzzworthystudio.com/img/projects/taylor/design-device-slide-3.png
+File Name: C:\Users\Kamra\Desktop\temp\buzzworthystudio.com\img\projects\taylor\design-device-slide-3.png
+Content Type: image/png
+
+Uri: http://buzzworthystudio.com/img/projects/taylor/design-device-slide-4.png
+File Name: C:\Users\Kamra\Desktop\temp\buzzworthystudio.com\img\projects\taylor\design-device-slide-4.png
+Content Type: image/png
+
+Uri: http://buzzworthystudio.com/img/projects/modernmd/hero-icon.png
+File Name: C:\Users\Kamra\Desktop\temp\buzzworthystudio.com\img\projects\modernmd\hero-icon.png
+Content Type: image/png
+
+Uri: http://buzzworthystudio.com/img/projects/modernmd/hp-animation.mp4
+File Name: C:\Users\Kamra\Desktop\temp\buzzworthystudio.com\img\projects\modernmd\hp-animation.mp4
+Content Type: video/mp4
+
+Uri: http://buzzworthystudio.com/img/projects/modernmd/icon-story.svg
+File Name: C:\Users\Kamra\Desktop\temp\buzzworthystudio.com\img\projects\modernmd\icon-story.svg
+Content Type: image/svg+xml
+
+Uri: http://buzzworthystudio.com/img/projects/modernmd/story-shape.png
+File Name: C:\Users\Kamra\Desktop\temp\buzzworthystudio.com\img\projects\modernmd\story-shape.png
+Content Type: image/png
+
+Uri: http://buzzworthystudio.com/img/projects/modernmd/story-img-1.jpg
+File Name: C:\Users\Kamra\Desktop\temp\buzzworthystudio.com\img\projects\modernmd\story-img-1.jpeg
+Content Type: image/jpeg
+
+Uri: http://buzzworthystudio.com/img/projects/modernmd/story-img-2.jpg
+File Name: C:\Users\Kamra\Desktop\temp\buzzworthystudio.com\img\projects\modernmd\story-img-2.jpeg
+Content Type: image/jpeg
+
+Uri: http://buzzworthystudio.com/img/projects/modernmd/story-md-icon.png
+File Name: C:\Users\Kamra\Desktop\temp\buzzworthystudio.com\img\projects\modernmd\story-md-icon.png
+Content Type: image/png
+
+Uri: http://buzzworthystudio.com/img/projects/modernmd/icon-ux.svg
+File Name: C:\Users\Kamra\Desktop\temp\buzzworthystudio.com\img\projects\modernmd\icon-ux.svg
+Content Type: image/svg+xml
+
+Uri: http://buzzworthystudio.com/img/projects/modernmd/ux-wireframe.png
+File Name: C:\Users\Kamra\Desktop\temp\buzzworthystudio.com\img\projects\modernmd\ux-wireframe.png
+Content Type: image/png
+
+Uri: http://buzzworthystudio.com/img/projects/modernmd/ux-parallax.png
+File Name: C:\Users\Kamra\Desktop\temp\buzzworthystudio.com\img\projects\modernmd\ux-parallax.png
+Content Type: image/png
+
+Uri: http://buzzworthystudio.com/img/projects/modernmd/design-shape.png
+File Name: C:\Users\Kamra\Desktop\temp\buzzworthystudio.com\img\projects\modernmd\design-shape.png
+Content Type: image/png
+
+Uri: http://buzzworthystudio.com/img/projects/modernmd/icon-design.svg
+File Name: C:\Users\Kamra\Desktop\temp\buzzworthystudio.com\img\projects\modernmd\icon-design.svg
+Content Type: image/svg+xml
+
+Uri: http://buzzworthystudio.com/img/projects/modernmd/design-icons.png
+File Name: C:\Users\Kamra\Desktop\temp\buzzworthystudio.com\img\projects\modernmd\design-icons.png
+Content Type: image/png
+
+Uri: http://buzzworthystudio.com/img/projects/modernmd/design-search.svg
+File Name: C:\Users\Kamra\Desktop\temp\buzzworthystudio.com\img\projects\modernmd\design-search.svg
+Content Type: image/svg+xml
+
+Uri: http://buzzworthystudio.com/img/projects/modernmd/design-typo.png
+File Name: C:\Users\Kamra\Desktop\temp\buzzworthystudio.com\img\projects\modernmd\design-typo.png
+Content Type: image/png
+
+Uri: http://buzzworthystudio.com/img/projects/modernmd/design-slide-1.png
+File Name: C:\Users\Kamra\Desktop\temp\buzzworthystudio.com\img\projects\modernmd\design-slide-1.png
+Content Type: image/png
+
+Uri: http://buzzworthystudio.com/img/projects/modernmd/design-slide-2.png
+File Name: C:\Users\Kamra\Desktop\temp\buzzworthystudio.com\img\projects\modernmd\design-slide-2.png
+Content Type: image/png
+
+Uri: http://buzzworthystudio.com/img/projects/modernmd/design-slide-3.png
+File Name: C:\Users\Kamra\Desktop\temp\buzzworthystudio.com\img\projects\modernmd\design-slide-3.png
+Content Type: image/png
+
+Uri: http://buzzworthystudio.com/img/projects/modernmd/design-color.png
+File Name: C:\Users\Kamra\Desktop\temp\buzzworthystudio.com\img\projects\modernmd\design-color.png
+Content Type: image/png
+
+Uri: http://buzzworthystudio.com/img/projects/modernmd/design-pic-1.jpg
+File Name: C:\Users\Kamra\Desktop\temp\buzzworthystudio.com\img\projects\modernmd\design-pic-1.jpeg
+Content Type: image/jpeg
+
+Uri: http://buzzworthystudio.com/img/projects/modernmd/design-pic-2.jpg
+File Name: C:\Users\Kamra\Desktop\temp\buzzworthystudio.com\img\projects\modernmd\design-pic-2.jpeg
+Content Type: image/jpeg
+
+Uri: http://buzzworthystudio.com/img/projects/modernmd/design-pic-3.jpg
+File Name: C:\Users\Kamra\Desktop\temp\buzzworthystudio.com\img\projects\modernmd\design-pic-3.jpeg
+Content Type: image/jpeg
+
+Uri: http://buzzworthystudio.com/img/projects/modernmd/design-pic-4.jpg
+File Name: C:\Users\Kamra\Desktop\temp\buzzworthystudio.com\img\projects\modernmd\design-pic-4.jpeg
+Content Type: image/jpeg
+
+Uri: http://buzzworthystudio.com/img/projects/modernmd/design-pic-5.jpg
+File Name: C:\Users\Kamra\Desktop\temp\buzzworthystudio.com\img\projects\modernmd\design-pic-5.jpeg
+Content Type: image/jpeg
+
+Uri: http://buzzworthystudio.com/img/projects/modernmd/design-pic-6.jpg
+File Name: C:\Users\Kamra\Desktop\temp\buzzworthystudio.com\img\projects\modernmd\design-pic-6.jpeg
+Content Type: image/jpeg
+
+Uri: http://buzzworthystudio.com/img/projects/modernmd/design-ui-1.png
+File Name: C:\Users\Kamra\Desktop\temp\buzzworthystudio.com\img\projects\modernmd\design-ui-1.png
+Content Type: image/png
+
+Uri: http://buzzworthystudio.com/img/projects/modernmd/design-ui-2.png
+File Name: C:\Users\Kamra\Desktop\temp\buzzworthystudio.com\img\projects\modernmd\design-ui-2.png
+Content Type: image/png
+
+Uri: http://buzzworthystudio.com/img/projects/modernmd/design-ui-3.png
+File Name: C:\Users\Kamra\Desktop\temp\buzzworthystudio.com\img\projects\modernmd\design-ui-3.png
+Content Type: image/png
+
+Uri: http://buzzworthystudio.com/img/projects/modernmd/design-final-prev.png
+File Name: C:\Users\Kamra\Desktop\temp\buzzworthystudio.com\img\projects\modernmd\design-final-prev.png
+Content Type: image/png
+
+Uri: http://buzzworthystudio.com/img/projects/storyverse/icon-develop.svg
+File Name: C:\Users\Kamra\Desktop\temp\buzzworthystudio.com\img\projects\storyverse\icon-develop.svg
+Content Type: image/svg+xml
+
+Uri: http://buzzworthystudio.com/img/projects/storyverse/prototype.mp4
+File Name: C:\Users\Kamra\Desktop\temp\buzzworthystudio.com\img\projects\storyverse\prototype.mp4
+Content Type: video/mp4
+
+Uri: http://buzzworthystudio.com/img/projects/storyverse/icon-story.svg
+File Name: C:\Users\Kamra\Desktop\temp\buzzworthystudio.com\img\projects\storyverse\icon-story.svg
+Content Type: image/svg+xml
+
+Uri: http://buzzworthystudio.com/img/projects/storyverse/story-device.png
+File Name: C:\Users\Kamra\Desktop\temp\buzzworthystudio.com\img\projects\storyverse\story-device.png
+Content Type: image/png
+
+Uri: http://buzzworthystudio.com/img/projects/storyverse/story-typo.png
+File Name: C:\Users\Kamra\Desktop\temp\buzzworthystudio.com\img\projects\storyverse\story-typo.png
+Content Type: image/png
+
+Uri: http://buzzworthystudio.com/img/projects/storyverse/ux-spider.png
+File Name: C:\Users\Kamra\Desktop\temp\buzzworthystudio.com\img\projects\storyverse\ux-spider.png
+Content Type: image/png
+
+Uri: http://buzzworthystudio.com/img/projects/storyverse/design-picture.jpg
+File Name: C:\Users\Kamra\Desktop\temp\buzzworthystudio.com\img\projects\storyverse\design-picture.jpeg
+Content Type: image/jpeg
+
+Uri: http://buzzworthystudio.com/img/projects/storyverse/design-font.png
+File Name: C:\Users\Kamra\Desktop\temp\buzzworthystudio.com\img\projects\storyverse\design-font.png
+Content Type: image/png
+
+Uri: http://buzzworthystudio.com/img/projects/storyverse/design-color.png
+File Name: C:\Users\Kamra\Desktop\temp\buzzworthystudio.com\img\projects\storyverse\design-color.png
+Content Type: image/png
+
+Uri: http://buzzworthystudio.com/img/projects/storyverse/design-device-slide-1.png
+File Name: C:\Users\Kamra\Desktop\temp\buzzworthystudio.com\img\projects\storyverse\design-device-slide-1.png
+Content Type: image/png
+
+Uri: http://buzzworthystudio.com/img/projects/storyverse/design-device-slide-2.png
+File Name: C:\Users\Kamra\Desktop\temp\buzzworthystudio.com\img\projects\storyverse\design-device-slide-2.png
+Content Type: image/png
+
+Uri: http://buzzworthystudio.com/img/projects/storyverse/design-device-slide-3.png
+File Name: C:\Users\Kamra\Desktop\temp\buzzworthystudio.com\img\projects\storyverse\design-device-slide-3.png
+Content Type: image/png
+
+Uri: http://buzzworthystudio.com/img/projects/gts/icon-story.svg
+File Name: C:\Users\Kamra\Desktop\temp\buzzworthystudio.com\img\projects\gts\icon-story.svg
+Content Type: image/svg+xml
+
+Uri: http://buzzworthystudio.com/img/projects/gts/story-prototype.mp4
+File Name: C:\Users\Kamra\Desktop\temp\buzzworthystudio.com\img\projects\gts\story-prototype.mp4
+Content Type: video/mp4
+
+Uri: http://buzzworthystudio.com/img/projects/gts/story-img-boxes.png
+File Name: C:\Users\Kamra\Desktop\temp\buzzworthystudio.com\img\projects\gts\story-img-boxes.png
+Content Type: image/png
+
+Uri: http://buzzworthystudio.com/img/projects/gts/icon-design.svg
+File Name: C:\Users\Kamra\Desktop\temp\buzzworthystudio.com\img\projects\gts\icon-design.svg
+Content Type: image/svg+xml
+
+Uri: http://buzzworthystudio.com/img/projects/gts/design-full-img.jpg
+File Name: C:\Users\Kamra\Desktop\temp\buzzworthystudio.com\img\projects\gts\design-full-img.jpeg
+Content Type: image/jpeg
+
+Uri: http://buzzworthystudio.com/img/projects/gts/design-color.png
+File Name: C:\Users\Kamra\Desktop\temp\buzzworthystudio.com\img\projects\gts\design-color.png
+Content Type: image/png
+
+Uri: http://buzzworthystudio.com/img/projects/gts/design-font.png
+File Name: C:\Users\Kamra\Desktop\temp\buzzworthystudio.com\img\projects\gts\design-font.png
+Content Type: image/png
+
+Uri: http://buzzworthystudio.com/img/projects/gts/design-hiring.png
+File Name: C:\Users\Kamra\Desktop\temp\buzzworthystudio.com\img\projects\gts\design-hiring.png
+Content Type: image/png
+
+Uri: http://buzzworthystudio.com/img/projects/gts/design-screenshot.jpg
+File Name: C:\Users\Kamra\Desktop\temp\buzzworthystudio.com\img\projects\gts\design-screenshot.jpeg
+Content Type: image/jpeg
+
+Uri: http://buzzworthystudio.com/img/projects/gts/design-ipad.png
+File Name: C:\Users\Kamra\Desktop\temp\buzzworthystudio.com\img\projects\gts\design-ipad.png
+Content Type: image/png
+
+Uri: http://buzzworthystudio.com/img/projects/gts/design-video.png
+File Name: C:\Users\Kamra\Desktop\temp\buzzworthystudio.com\img\projects\gts\design-video.png
+Content Type: image/png
+
+Uri: http://buzzworthystudio.com/img/projects/gts/icon-develop.svg
+File Name: C:\Users\Kamra\Desktop\temp\buzzworthystudio.com\img\projects\gts\icon-develop.svg
+Content Type: image/svg+xml
+
+Uri: http://buzzworthystudio.com/img/projects/hennessey/logo-animation.gif
+File Name: C:\Users\Kamra\Desktop\temp\buzzworthystudio.com\img\projects\hennessey\logo-animation.gif
+Content Type: image/gif
+
+Uri: http://buzzworthystudio.com/img/projects/hennessey/icon-story.svg
+File Name: C:\Users\Kamra\Desktop\temp\buzzworthystudio.com\img\projects\hennessey\icon-story.svg
+Content Type: image/svg+xml
+
+Uri: http://buzzworthystudio.com/img/projects/hennessey/story-iphone.png
+File Name: C:\Users\Kamra\Desktop\temp\buzzworthystudio.com\img\projects\hennessey\story-iphone.png
+Content Type: image/png
+
+Uri: http://buzzworthystudio.com/img/projects/hennessey/story-icon.png
+File Name: C:\Users\Kamra\Desktop\temp\buzzworthystudio.com\img\projects\hennessey\story-icon.png
+Content Type: image/png
+
+Uri: http://buzzworthystudio.com/img/projects/hennessey/icon-ux.svg
+File Name: C:\Users\Kamra\Desktop\temp\buzzworthystudio.com\img\projects\hennessey\icon-ux.svg
+Content Type: image/svg+xml
+
+Uri: http://buzzworthystudio.com/img/projects/hennessey/ux-wireframe.png
+File Name: C:\Users\Kamra\Desktop\temp\buzzworthystudio.com\img\projects\hennessey\ux-wireframe.png
+Content Type: image/png
+
+Uri: http://buzzworthystudio.com/img/projects/hennessey/icon-design.svg
+File Name: C:\Users\Kamra\Desktop\temp\buzzworthystudio.com\img\projects\hennessey\icon-design.svg
+Content Type: image/svg+xml
+
+Uri: http://buzzworthystudio.com/img/projects/hennessey/design-imac.png
+File Name: C:\Users\Kamra\Desktop\temp\buzzworthystudio.com\img\projects\hennessey\design-imac.png
+Content Type: image/png
+
+Uri: http://buzzworthystudio.com/img/projects/hennessey/design-color.png
+File Name: C:\Users\Kamra\Desktop\temp\buzzworthystudio.com\img\projects\hennessey\design-color.png
+Content Type: image/png
+
+Uri: http://buzzworthystudio.com/img/projects/hennessey/design-logo-concept.png
+File Name: C:\Users\Kamra\Desktop\temp\buzzworthystudio.com\img\projects\hennessey\design-logo-concept.png
+Content Type: image/png
+
+Uri: http://buzzworthystudio.com/img/projects/hennessey/design-stamp.png
+File Name: C:\Users\Kamra\Desktop\temp\buzzworthystudio.com\img\projects\hennessey\design-stamp.png
+Content Type: image/png
+
+Uri: http://buzzworthystudio.com/img/projects/hennessey/design-logo-cut.png
+File Name: C:\Users\Kamra\Desktop\temp\buzzworthystudio.com\img\projects\hennessey\design-logo-cut.png
+Content Type: image/png
+
+Uri: http://buzzworthystudio.com/img/projects/hennessey/design-logo-versions.png
+File Name: C:\Users\Kamra\Desktop\temp\buzzworthystudio.com\img\projects\hennessey\design-logo-versions.png
+Content Type: image/png
+
+Uri: http://buzzworthystudio.com/img/projects/hennessey/design-letterhead.png
+File Name: C:\Users\Kamra\Desktop\temp\buzzworthystudio.com\img\projects\hennessey\design-letterhead.png
+Content Type: image/png
+
+Uri: http://buzzworthystudio.com/img/projects/hennessey/design-screen-back.jpg
+File Name: C:\Users\Kamra\Desktop\temp\buzzworthystudio.com\img\projects\hennessey\design-screen-back.jpeg
+Content Type: image/jpeg
+
+Uri: http://buzzworthystudio.com/img/projects/hennessey/design-bc.png
+File Name: C:\Users\Kamra\Desktop\temp\buzzworthystudio.com\img\projects\hennessey\design-bc.png
+Content Type: image/png
+
+Uri: http://buzzworthystudio.com/img/projects/hennessey/design-screen-front.png
+File Name: C:\Users\Kamra\Desktop\temp\buzzworthystudio.com\img\projects\hennessey\design-screen-front.png
+Content Type: image/png
+
